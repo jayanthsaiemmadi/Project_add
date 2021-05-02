@@ -1,0 +1,124 @@
+﻿.container {
+    width: 100%;
+    height: 200%;
+    background-color:#fff;
+ 
+    
+}
+.logo1 img {
+    width: 210px;
+    height: 200px;
+    margin-top: -80px;
+    margin-right: 48px;
+    margin-left: -10px;
+    padding-left: -5px;
+    cursor: grabbing;
+    align-content: center;
+    border-radius: 50%;
+    position:relative;
+}
+.signup-btn {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    top: 55px;
+    right: 80px;
+    position:absolute;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid transparent;
+    border-radius: 18px;
+    background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left,#fd00da,#19d7f8);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+}
+    .signup-btn span {
+        display: block;
+        padding: 12px 40px;
+    }
+.contact {
+    display: inline-flex;
+   padding-left:290px;
+   
+    font-family: cursive;
+    font-size:15px;
+   margin-left:10px;
+    font-family:Algerian;
+    
+}
+
+.email {
+    display: inline-flex;
+    margin-top: 10px;
+   position:absolute;
+  top:25px;
+  left:290px;
+    font-family: Algerian;
+    font-size: large;
+    
+    
+}
+
+.location {
+    display: inline-flex;
+    margin-left: 50px;
+    font-family: Algerian;
+    font-size: large;
+    position:absolute;
+    right:300px;
+}
+.menu ul {
+    background: #ffffff;
+    display: inline-block;
+    margin: 0px;
+    opacity: 0.9;
+}
+
+.menu ul li {
+    list-style: none;
+    margin-top: 25px; 
+    margin-bottom: 25px;
+    margin-left: 125px;
+    color: #ad52cf;
+    cursor: pointer;
+    }
+.image1 img {
+    width: 100%;
+    height: 450px;
+    margin-top: 0px;
+    margin-right: -30px;
+    cursor: pointer;
+  
+}
+.video video{
+    alignment: right;
+    
+}
+
+.about1 {
+    font-family: 'Bangers', cursive;
+    font-family: 'Zen Dots', cursive;
+    font-size: 100px;
+    display: inline-flex;
+    margin: 60px;
+    
+}
+#more {
+    display: none;
+}
+.menu .button {
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 20px 84px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Cardo', serif;
+    font-size: 23px;
+    cursor: pointer;
+    float: left;
+    margin-left: -50px;
+}
+.menu .button:hover {
+    background-color: #3e8e41;
+}
